@@ -10,8 +10,6 @@ Claude Code skills for the Story TLRS team. Install these to give Claude context
 | [`story-tlrs-docx`](./story-tlrs-docx/) | Creates branded Word documents (proposals, briefs, pricing docs, client handouts) using the brand.js library |
 | [`clickup-manager`](./clickup-manager/) | ClickUp task management — creates, updates, and routes tasks across Story TLRS workspaces with the correct list IDs |
 | [`prospect-prep`](./prospect-prep/) | Research and prep for new business meetings — social audit, company research, talking points |
-| [`content-engine`](./content-engine/) | Transforms raw notes into Substack articles + LinkedIn posts (EN + CZ), saves as ClickUp tasks |
-| [`linkedin-post`](./linkedin-post/) | Quick LinkedIn posts and comments in Petr's voice (EN + CZ) |
 
 ## How to install
 
